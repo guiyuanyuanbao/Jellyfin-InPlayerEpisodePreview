@@ -24,7 +24,7 @@ Jellyfin 播放器选集功能扩展脚本
 ### 方法一：用户脚本管理器
 
 1. 安装用户脚本管理器，如 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
-2. 创建新脚本，将 `InPlayerEpisodePreview.js` 中的代码复制粘贴进去
+2. 点击 [此处](https://greasyfork.org/zh-CN/scripts/545514-jellyfin-%E6%92%AD%E6%94%BE%E5%99%A8%E9%80%89%E9%9B%86%E5%8A%9F%E8%83%BD) 在 Greasyfork 安装脚本，或手动创建新脚本，将 `InPlayerEpisodePreview.js` 中的代码复制粘贴进去
 3. 保存并启用脚本
 4. 刷新 Jellyfin 网页界面即可使用
 
