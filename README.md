@@ -12,6 +12,12 @@ Jellyfin 播放器选集功能扩展脚本
 
 ![功能演示 2](img/2.png)
 
+## 支持的客户端
+
+- Jellyfin Web
+- Jellyfin Android (播放器类型仅限网页播放器)
+- Jellyfin iOS
+
 ## 功能特点
 
 - **播放器内选集**：在播放器 OSD 界面中添加选集按钮，支持快速切换剧集
